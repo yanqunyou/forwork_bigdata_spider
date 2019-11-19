@@ -1,0 +1,184 @@
+1568009979009	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\forwork\\AppData\\Local\\Temp\\rust_mozprofile.t4AtffpdC2bG"
+1568009979403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568009979403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568009979403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568009980699	Marionette	INFO	Listening on port 49761
+1568009981139	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568009981157	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"101.200.43.49:6000"}
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567814407663%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 34352, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 34352, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Child 36324d, 21212, Chrome_C Chhriome_ChildThread] WARNING: ldThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 36324, Ch[Parent 34352, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 23016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 23016, 1568012394136	Marionette	INFO	Stopped listening on port 49761
+[GPU 422
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568020350162	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\forwork\\AppData\\Local\\Temp\\rust_mozprofile.k592Di4BqBrN"
+1568020350534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568020350534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568020350534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568020351811	Marionette	INFO	Listening on port 57761
+1568020352287	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568020352303	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"101.231.104.82:80"}
+[Parent 31116, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 31116, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11376, Chrome_ChildThread] WARNING: pipe error: 10[Child 36148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child [Parent 31116, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7621568077858067	Marionette	INFO	Stopped listening on port 57761
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568797618480	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\forwork\\AppData\\Local\\Temp\\rust_mozprofile.uIHoGXfXZPJl"
+1568797619276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568797619277	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568797619277	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568797621539	Marionette	INFO	Listening on port 50802
+1568797621701	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568797621709	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"39.106.223.134:80"}
+[Parent 20640, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 20640, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3456, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502[Child
+ 22728, Chrome_ChildThread] WARNING: pipe error: 109: fi[Child 3456, Chrome_ChildThread] WARNING:le  z:/pitpae error: 232: file z:/task_1558035249/build/src/ipc/chromium/src/chrosk_1558035249/build/src/ipc/cmhe/crommon/ipoc_channel_winmium/.cc, line 502
+src/chrome/common/ipc_c[hannel_win.cChild 34c, line 56, C341hrome
+_ChildThread[] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3456, Chrome_Chi[Parent 20640, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21060, Chrome1568797672314	Marionette	INFO	Stopped listening on port 50802
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568797960382	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\forwork\\AppData\\Local\\Temp\\rust_mozprofile.ENtTvyRNvwf8"
+1568797960804	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568797960804	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568797960804	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568797962152	Marionette	INFO	Listening on port 51406
+1568797962500	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568797962518	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"39.106.223.134:80"}
+[Parent 23352, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 23352, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 23224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/ch[romiCum/srhild 222c96, Chrome_ChildThread] W/chrome/ARNING: pipcommon/ipc_channee el_win.cc, line 341rror: 109: file z:/task_1558035249/build
+/src/ipc/chromium/src/[Child 2chrome/common/ipc_channel_win.cc, line 341
+[Child 2229[Parent 23352, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1568798006928	Marionette	INFO	Stopped listening on port 51406
+[GP
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568798289797	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\forwork\\AppData\\Local\\Temp\\rust_mozprofile.k616G5GfPEne"
+1568798290232	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568798290232	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568798290232	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568798291627	Marionette	INFO	Listening on port 51926
+1568798291910	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568798291916	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"39.106.223.134:80"}
+[Parent 812, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 812, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium[Child 255/src/48, Chrome_ChildThread] WARNING: chropipe me/errcomor:mon 10/ip9: file z:/task_1558035249/build/src/ipc/chromium/srcc/_channel_win.ccc, hromlie/common/ipc_cne 3hannel_win.cc, line 34141
+
+[Child 25548, Chrome_Ch[Child 9704, Chrome_C[Parent 812, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 24992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 24992, Chrome_Ch*** UTM:Sconsole.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221568747573748%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Child 23104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 23104[Parent 24684, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21776, 1568798727493	Marionette	INFO	Stopped listening on port 52101
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+sion 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568798609284	Marionette	INFO	Listening on port 52598
+1568798609386	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568798609392	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"39.106.223.134:80"}
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221568747573748%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 23220, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14324, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+[Child 14324, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502[
+Child 2[Ch5ild 214324, Chr88, Chrome_Childome_ChildThreadThread] WARNING] WARNIN: G: pipe epiprroer:  erro10r: 9: file z:/task_11558035249/build/sr09: filc/ipce z:/task_1/chromiu5580m/src/chr3ome/common/ipc5249/build/src/ipc/chr_comium/src/chromhannel_win.ecc,/co mmon/ilinpc_e 3chan41
+nel_win.cc, line 341
+[Child 14324, Chrome[Chil_d 25Chi288, ldThreadC] WhARNING: pipe errorr: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chr[Parent 23220, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/JavaScript error: https://fecdn2.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+1568798883034	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: https://fecdn2.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+1568798902075	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: https://fecdn2.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+1568798920075	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: https://fecdn2.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+1568798938431	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1568798941155	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: https://fecdn2.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+1568798955920	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: https://fecdn2.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+1568798974108	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: https://fecdn2.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+1568798992428	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1568798996139	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: https://fecdn2.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+1568799011198	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: https://fecdn2.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+1568799029342	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1568799033053	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: https://fecdn2.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+1568799047952	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: https://fecdn2.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+1568799066234	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: https://fecdn2.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+1568799084380	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+JavaScript error: https://fecdn2.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+1568799101448	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1568799121728	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\forwork\\AppData\\Local\\Temp\\rust_mozprofile.5PFGAHLpH6gc"
+1568799122073	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568799122074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568799122074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568799123481	Marionette	INFO	Listening on port 53322
+1568799123841	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568799123847	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"39.106.223.134:80"}
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221568747573748%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
