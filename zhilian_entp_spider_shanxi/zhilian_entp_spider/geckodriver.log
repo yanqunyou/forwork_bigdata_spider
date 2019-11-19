@@ -1,0 +1,335 @@
+1568009979009	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\forwork\\AppData\\Local\\Temp\\rust_mozprofile.t4AtffpdC2bG"
+1568009979403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568009979403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568009979403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568009980699	Marionette	INFO	Listening on port 49761
+1568009981139	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568009981157	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"101.200.43.49:6000"}
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567814407663%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 34352, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 34352, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Child 36324d, 21212, Chrome_C Chhriome_ChildThread] WARNING: ldThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 36324, Ch[Parent 34352, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 23016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 23016, 1568012394136	Marionette	INFO	Stopped listening on port 49761
+[GPU 422
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1568020350162	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\forwork\\AppData\\Local\\Temp\\rust_mozprofile.k592Di4BqBrN"
+1568020350534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568020350534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568020350534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568020351811	Marionette	INFO	Listening on port 57761
+1568020352287	Marionette	WARN	TLS certificate errors will be ignored for this session
+1568020352303	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"101.231.104.82:80"}
+[Parent 31116, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 31116, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11376, Chrome_ChildThread] WARNING: pipe error: 10[Child 36148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child [Parent 31116, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7621568077858067	Marionette	INFO	Stopped listening on port 57761
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1570588046793	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\forwork\\AppData\\Local\\Temp\\rust_mozprofile.92q61AWNewF7"
+1570588047426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570588047427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570588047427	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570588048985	Marionette	INFO	Listening on port 62186
+1570588049048	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570588049054	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"39.106.223.134:80"}
+1570588473956	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\forwork\\AppData\\Local\\Temp\\rust_mozprofile.7ELcSCaX2Mxp"
+1570588474304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570588474305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570588474305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570588475612	Marionette	INFO	Listening on port 62409
+1570588476078	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570588476091	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"39.106.223.134:80"}
+[Parent 5740, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 5740, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line[Child 7808, Chrome_ChildThre ad] 341WAR
+NING: pipe error: 10[Child 9864, Chrome9_ChildT: file z:/hreatd] WARNING:ask_15 pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/c58035249/build/shrome/common/rc/ipc/ipc_chromiumchannel/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 5740, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14580, C1570588504898	Marionette	INFO	Stopped listening on port 62409
+[GPU 13
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1570589039695	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\forwork\\AppData\\Local\\Temp\\rust_mozprofile.w99lk8FY2yTK"
+1570589040052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570589040052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570589040052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570589041427	Marionette	INFO	Listening on port 62628
+1570589041806	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570589041814	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"39.106.223.134:80"}
+[Parent 18188, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18188, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18188, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18188, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://fecdn3.zhaopin.cn/company/vendors.web.645e68.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221570579719049%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+1570590218653	Marionette	INFO	Stopped listening on port 62628
+[Parent 18188, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7996, C[Parent 18188, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Ch[Parent 18188, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9484[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1570598255069	mozrunner::runner	INFO	Running command: "D:\\software\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\forwork\\AppData\\Local\\Temp\\rust_mozprofile.AqtzMHrEgigY"
+1570598255479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570598255480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570598255480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570598257135	Marionette	INFO	Listening on port 50716
+1570598257192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570598257199	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"39.106.223.134:80"}
+JavaScript error: https://fecdn3.zhaopin.cn/company/vendors.web.645e68.js, line 1: TypeError: n.setAttribute is not a function
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://webapi.amap.com/maps?v=1.4.6&key=6a7665aa7301eae686d9e79884d0445b&plugin=AMap.CitySearch line 137 > eval, line 1: TypeError: f.pa.bc is not a constructor
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://fecdn3.zhaopin.cn/company/vendors.web.645e68.js, line 1: TypeError: n.setAttribute is not a function
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://fecdn3.zhaopin.cn/company/vendors.web.645e68.js, line 1: TypeError: n.setAttribute is not a function
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://fecdn3.zhaopin.cn/company/vendors.web.645e68.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://webapi.amap.com/maps?v=1.4.6&key=6a7665aa7301eae686d9e79884d0445b&plugin=AMap.CitySearch line 137 > eval, line 1: TypeError: f.pa.bc is not a constructor
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: TypeError: n.setAttribute is not a function
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+JavaScript error: https://fecdn1.zhaopin.cn/sou/vendors.web.22c720.js, line 1: HierarchyRequestError: Node cannot be inserted at the specified point in the hierarchy
+1570599558014	Marionette	INFO	Stopped listening on port 50716
+[Child 19080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1908[Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18224, Chrome_ChildThread] [Parent 12656, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18404, C
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

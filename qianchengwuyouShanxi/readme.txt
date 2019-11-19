@@ -1,0 +1,7 @@
+
+1、先使用 read_and_produce_qianchengwuyou_industry.py 将整理好的领域对应关系读出，生成好industry与domain关系
+2、再执行 qianChengWuYou_domain_area_ParseSearchUrls.py 生成待采集URL表数据
+3、最后执行采集程序 qianChengWuYou_entp_and_post.py 采集数据
+
+
+
