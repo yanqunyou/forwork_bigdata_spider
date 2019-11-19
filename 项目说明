@@ -1,0 +1,24 @@
+
+1、ChinaCityLevel 中国城市分级别入库
+2、constantSpider 国民经济行业分类入库
+3、Cordis       欧盟项目采集
+4、daoshi_spider 研究生导师查询系统数据采集
+5、expertSpider  中国工程科技专家库 http://expert.ckcest.cn/ 数据采集
+6、ip_89_proxy   http://www.89ip.cn/ 代理采集
+7、IpHaiSpider   http://www.iphai.com/ 代理采集
+8、lu_professor  http://www.qiyekexie.com/ 绿平台数据采集
+9、zhiwang_patent 知网 专利 数据采集
+10、Proxy_IP-master 代理数据采集
+11、scientific_achievements 武汉科技成果转化平台 数据采集
+12、scientistSpider  科学家在线数据采集（目前科学家在线网站需要微信认证）
+13、scientistSpider_byNameOrg 该项目针对科学家网站，按照八大领域对其进行数据爬取
+14、scientistSpider_expert 该项目针对科学家网站，按照领域对其进行数据爬取
+15、talentsSpider    方阵网人才数据采集
+16、tinayancha       天眼查数据采集
+17、tinayancha_selenium  天眼查数据采集 scrapy
+17、tinayancha_wuhan     武汉-天眼查数据采集 selenium
+18、tianyancha_entp_selenium     武汉-天眼查数据采集 selenium
+19、Spider-master        练习
+20、Viplrtree        维普数据
+21、ZhilianPost      智联数据采集（scrapy）
+22、aminer_talent_spider     Aminer网站数据采集
